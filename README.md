@@ -7,7 +7,9 @@ _exact_ mathmatical operations on numbers in javascript.
 
 # install
 
-```npm install robust-split``
+`npm install robust-split`
+
+If you want to use this in the browser, check out [browserify](http://browserify.org)
 
 # use
 
@@ -23,7 +25,7 @@ console.log(p); //[ 2.980232227667301e-9,
 
 You could then pass the sequence into `[robust-estimate-float](https://github.com/tmpvar/robust-estimate-float)`
 
-```
+```javascript
 var num = require('robust-estimate-float');
 
 var r = num(p);
