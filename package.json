@@ -14,7 +14,7 @@
     "robust",
     "float",
     "exact",
-    "nonoverlapping",
+    "nonoverlapping"
   ],
   "author": "Elijah Insua <tmpvar@gmail.com>",
   "license": "MIT",
