@@ -23,7 +23,7 @@ console.log(p); //[ 2.980232227667301e-9,
                 //  0.29999999701976776 ]
 ```
 
-You could then pass the sequence into `[robust-estimate-float](https://github.com/tmpvar/robust-estimate-float)`
+You could then pass the sequence into [`robust-estimate-float`](https://github.com/tmpvar/robust-estimate-float)
 
 ```javascript
 var num = require('robust-estimate-float');
